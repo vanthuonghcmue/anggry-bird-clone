@@ -9,6 +9,12 @@ public class levelController : MonoBehaviour
     [SerializeField] string _nextLevel;
     private zombie[] _zombies;
 
+    public GameOver gameOver;
+
+    public void GameOver()
+    {
+        SceneManager.LoadScene("overgame");
+    }
     void OnEnable()
     {
         _zombies = FindObjectsOfType<zombie>();
