@@ -1321,6 +1321,11 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 19
       objectReference: {fileID: 0}
+    - target: {fileID: 8595456181739966778, guid: 8dd1dade3ff0d4741b28440024c4fdfd,
+        type: 3}
+      propertyPath: numberOfBirds
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8dd1dade3ff0d4741b28440024c4fdfd, type: 3}
 --- !u!1 &1786591113
@@ -1900,6 +1905,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1252642468395570188, guid: 63befa042f65e8d47899f2b2091d913a,
+        type: 3}
+      propertyPath: numberOfBirds
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1738220439323387028, guid: 63befa042f65e8d47899f2b2091d913a,
         type: 3}

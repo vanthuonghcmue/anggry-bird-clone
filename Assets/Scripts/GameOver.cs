@@ -8,11 +8,11 @@ public class GameOver : MonoBehaviour
     // Start is called before the first frame update
     public void RestartButton()
     {
-        SceneManager.LoadScene("level1");
+        SceneManager.LoadScene ("level1");
     }
 
     public void ExitButton()
     {
-        SceneManager.LoadScene("main menu");
+        SceneManager.LoadScene ("main menu");
     }
 }

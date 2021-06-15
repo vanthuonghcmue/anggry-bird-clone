@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1522
     height: 807
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 677, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 123
+  controlID: 124
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 304
     height: 807
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 493
     height: 536
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -216,7 +216,7 @@ MonoBehaviour:
     y: 0
     width: 1218
     height: 807
-  m_MinSize: {x: 403, y: 492}
+  m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 56
@@ -241,8 +241,8 @@ MonoBehaviour:
     y: 0
     width: 1218
     height: 536
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
   controlID: 57
 --- !u!114 &11
@@ -403,20 +403,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\DELL\Desktop\anggry bird clone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c03b0000
-    m_LastClickedID: 15296
-    m_ExpandedIDs: 00000000aa3b0000
+    m_SelectedIDs: 623c0000
+    m_LastClickedID: 15458
+    m_ExpandedIDs: 000000004e3c0000423e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,7 +444,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa3b0000
+    m_ExpandedIDs: 000000004e3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -567,9 +567,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4a350000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 925dfffff65fffff0268ffff2868ffff186cffff2a6effff326effffdc74ffff547affff927affff687bffff5a80ffff1284ffffea84ffffb285ffffaa86ffffc086ffffd286ffffdc86ffffe686ffff848affff928afffffae8ffff08e9ffff18e9ffff30e9ffff40e9ffff4ee9ffff5ce9ffff66e9ffff74eaffff34effffff0f9fffffef9ffff12faffff1afaffff60fbffff00000000463b0000343f0000723f0000a43f0000b63f0000c03f0000224100006041000092410000a4410000ae41000092440000984400005a4a0000984a0000ca4a0000dc4a0000e64a00008a520000c8520000fa5200000c530000165300002c5d0000425e0000805e0000b25e0000c45e0000ce5e0000005f0000085f0000125f00008a610000fa6100000c6200001662000052620000666200002e640000266a0000
+      m_ExpandedIDs: 4ea1ffffd2a1ffff08a2ffffb2a6ffffbca8ffffa6aaffff24aeffff96aeffffb6aeffffd4b0fffffab0ffff2ab3ffff50b6ffff52c1ffff8ec1ffff4ec2ffffbed3ffffccd3ffff52d4ffff60d4ffffb2dbffffbadbffffccdbffff1addffffb2deffff00e7ffffc0e7fffface8ffffbae8fffff0e9ffff94edffffa2edffff84faffff8cfaffff94faffff4afbffffe12e00002c3d00003e3d0000483d0000523d0000ae410000304200003a420000fc4500000646000010460000a0460000224700007c47000090480000ce48000012490000a24e0000b84e0000c44e0000da4e0000e44e0000f8510000305200003a53000050530000725300007c5300009e560000b4560000e65e0000ce6600000e670000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -629,9 +629,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 356.3367, y: 249.71384, z: -1462.625}
+    m_Target: {x: 5.684519, y: 0.5233499, z: -298.21265}
     speed: 2
-    m_Value: {x: 356.3367, y: 249.71384, z: -1462.625}
+    m_Value: {x: 5.684519, y: 0.5233499, z: -298.21265}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -681,9 +681,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 305.86005
+    m_Target: 15.704511
     speed: 2
-    m_Value: 292.68903
+    m_Value: 15.704511
   m_Ortho:
     m_Target: 1
     speed: 2

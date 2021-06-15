@@ -1,17 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class Bird : MonoBehaviour
 {
     [SerializeField] float _launchForce = 800;
     [SerializeField] float _maxDragDistance = 5;
-    
+    [SerializeField] int numberOfBirds;
 
     Vector2 _startPosition;
     Rigidbody2D _rigidbody2D;
     SpriteRenderer _spriteRenderer;
-
+    
     public bool IsDragging { get; private set; }
 
     void Awake()
@@ -30,7 +32,8 @@ public class Bird : MonoBehaviour
     void OnMouseDown()
     {
         _spriteRenderer.color = new Color32(123,199,248,255) ;
-        IsDragging = true;  
+        IsDragging = true;
+        numberOfBirds--;
     }
 
     void OnMouseUp()
@@ -44,7 +47,7 @@ public class Bird : MonoBehaviour
 
         _spriteRenderer.color = Color.white;
         IsDragging = false;
-
+        
     }
 
     void OnMouseDrag()
@@ -70,12 +73,11 @@ public class Bird : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+       
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         StartCoroutine(ResetAfterDelay());
-
     }
 
     IEnumerator ResetAfterDelay()
@@ -84,5 +86,15 @@ public class Bird : MonoBehaviour
         _rigidbody2D.position = _startPosition;
         _rigidbody2D.isKinematic = true;
         _rigidbody2D.velocity = Vector2.zero;
+        if (numberOfBirds == 0)
+        {
+            yield return new WaitForSeconds(3);
+            GameOver();
+        }
+    }
+
+    public void GameOver()
+    {
+        SceneManager.LoadScene("game over");
     }
 }
