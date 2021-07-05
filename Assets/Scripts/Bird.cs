@@ -2,38 +2,54 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.UI;
 
 public class Bird : MonoBehaviour
 {
-    [SerializeField] float _launchForce = 800;
-    [SerializeField] float _maxDragDistance = 5;
-    [SerializeField] int numberOfBirds;
-
+    [SerializeField] float _launchForce = 8000;
+    [SerializeField] float _maxDragDistance = 50;
     Vector2 _startPosition;
     Rigidbody2D _rigidbody2D;
     SpriteRenderer _spriteRenderer;
-    
+    public static Bird Instance { get; private set; }
+    public int numberOfBirds = 2;
+
     public bool IsDragging { get; private set; }
+
+    public AudioSource aus;
+    public AudioClip jump;
+    public AudioClip lose;
 
     void Awake()
     {
+        Instance = this;
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }
     // Start is called before the first frame update
     void Start()
     {
+        
+        // get start bird positon 
         _startPosition = _rigidbody2D.position;
+        // kinematic is on
         _rigidbody2D.isKinematic = true;
+
     }
 
 
     void OnMouseDown()
     {
+        // set corlor bird
         _spriteRenderer.color = new Color32(123,199,248,255) ;
         IsDragging = true;
-        numberOfBirds--;
+
+        if (aus && lose)
+        {
+            aus.PlayOneShot(lose);
+
+        } 
+      
     }
 
     void OnMouseUp()
@@ -47,7 +63,14 @@ public class Bird : MonoBehaviour
 
         _spriteRenderer.color = Color.white;
         IsDragging = false;
-        
+        StartCoroutine(ResetAfterDelay());
+
+        if ( aus && jump)
+        {
+            aus.PlayOneShot(jump);
+
+        }
+
     }
 
     void OnMouseDrag()
@@ -73,12 +96,12 @@ public class Bird : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
     }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        StartCoroutine(ResetAfterDelay());
-    }
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    StartCoroutine(ResetAfterDelay());
+        
+   //}
 
     IEnumerator ResetAfterDelay()
     {
@@ -86,15 +109,6 @@ public class Bird : MonoBehaviour
         _rigidbody2D.position = _startPosition;
         _rigidbody2D.isKinematic = true;
         _rigidbody2D.velocity = Vector2.zero;
-        if (numberOfBirds == 0)
-        {
-            yield return new WaitForSeconds(3);
-            GameOver();
-        }
-    }
-
-    public void GameOver()
-    {
-        SceneManager.LoadScene("game over");
+        numberOfBirds--;
     }
 }
