@@ -3,45 +3,41 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+
 public class buttonController : MonoBehaviour
 {
-    /*
-       public void RestartButton()
-       {
-           SceneManager.LoadScene("SampleScene");
-       }
+    public static bool GameIsPause = false;
+    public GameObject pauseMenuUI;
 
-       public void ExitButton()
-       {
-
-           SceneManager.LoadScene("main menu");
-       }
-       public void menu()
-       {
-           Debug.Log("ok");
-       }
-    */
-    /*public void loadMenu()
-     {
-         SceneManager.LoadScene("Menu");
-     }
-     public void Menu()
-     {
-         Debug.Log("loading menu...");
-     }*/
-    public void RestartButton()
+    public void MenuButton()
     {
-        SceneManager.LoadScene("SampleScene");
-    }
-
-    public void ExitButton()
-    {
-
+        Time.timeScale = 1f;
         SceneManager.LoadScene("main menu");
     }
-    public void menu()
+
+    public void RestartButton()
     {
-        Debug.Log("ok");
+        SceneManager.LoadScene(levelController.instance.nextLevel - 1);
+    }
+
+    public void PauseButton()
+    {
+        pauseMenuUI.SetActive(true);
+        Time.timeScale = 0f;
+        //GameIsPause = true;
+    }
+
+    public void ResumeButton()
+    {
+        pauseMenuUI.SetActive(false);
+        Time.timeScale = 1f;
+        //GameIsPause = false;
+    }
+
+    public void QuitButton()
+    {
+        Application.Quit();
     }
 }
 

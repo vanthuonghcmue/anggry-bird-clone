@@ -11,7 +11,6 @@ public class Scores : MonoBehaviour
     public int scores, hightScore ;
     public Text hightScoresText;
 
-
     private void Awake()
     {
         instance = this;
@@ -24,8 +23,7 @@ public class Scores : MonoBehaviour
         show_scores = GetComponent<Text>();
         scores = 0;
 
-        if (PlayerPrefs.HasKey((levelController.instance.nextLevel - 1).ToString()))
-
+        if (PlayerPrefs.HasKey("HighScores" + (levelController.instance.nextLevel - 1).ToString()))
         {
             hightScore = PlayerPrefs.GetInt("HighScores" + (levelController.instance.nextLevel - 1).ToString());
         }

@@ -102,7 +102,6 @@
     <Compile Include="Assets\Scripts\Crate.cs" />
     <Compile Include="Assets\Scripts\GameOver.cs" />
     <Compile Include="Assets\Scripts\Line.cs" />
-    <Compile Include="Assets\Scripts\Reset.cs" />
     <Compile Include="Assets\Scripts\Scores.cs" />
     <Compile Include="Assets\Scripts\buttonController.cs" />
     <Compile Include="Assets\Scripts\health.cs" />

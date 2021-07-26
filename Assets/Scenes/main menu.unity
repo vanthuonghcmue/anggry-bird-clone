@@ -1199,7 +1199,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: aeeb6f575dd476044ba5a905588b36fa, type: 3}
     m_FontSize: 36
-    m_FontStyle: 1
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 48
@@ -1277,7 +1277,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: aeeb6f575dd476044ba5a905588b36fa, type: 3}
     m_FontSize: 27
-    m_FontStyle: 1
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 46
@@ -2103,7 +2103,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b07ca16b68455d242910eaca2076085d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.51
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2214,3 +2214,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 2125559275}
+  AudioSlider: {fileID: 1885498769}
