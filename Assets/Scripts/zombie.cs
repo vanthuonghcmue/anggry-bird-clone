@@ -10,13 +10,16 @@ public class zombie : MonoBehaviour
     [SerializeField] Sprite _deadSprite;
     [SerializeField] ParticleSystem _particleSystem;
     bool _hasDead;
-     
+
+    public AudioSource aus;
+
     void OnCollisionEnter2D(Collision2D collision)
     {
 
         if (ShouldDieFromCollision(collision))
         {
             StartCoroutine(Die());
+            Scores.instance.scores += 100;
         }
        
     }
