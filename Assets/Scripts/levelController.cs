@@ -25,6 +25,7 @@ public class levelController : MonoBehaviour
         if (ZombeAreAllDead())
         {
             GameOverWin();
+            unlockNextlevel(levelController.instance.nextLevel);
         }
 
         if( Bird.Instance.numberOfBirds == 0)
@@ -50,6 +51,10 @@ public class levelController : MonoBehaviour
                 return false;
         }
         return true;
+    }
+
+    private void unlockNextlevel(int level) {
+        PlayerPrefs.SetInt("isUnlock" + level.ToString(), 1);
     }
 }
   

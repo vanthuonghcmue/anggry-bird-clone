@@ -106,6 +106,7 @@
     <Compile Include="Assets\Scripts\buttonController.cs" />
     <Compile Include="Assets\Scripts\health.cs" />
     <Compile Include="Assets\Scripts\levelController.cs" />
+    <Compile Include="Assets\Scripts\mapLevel.cs" />
     <Compile Include="Assets\Scripts\menu.cs" />
     <Compile Include="Assets\Scripts\slingShot.cs" />
     <Compile Include="Assets\Scripts\sound.cs" />
