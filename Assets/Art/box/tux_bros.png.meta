@@ -1,0 +1,8072 @@
+fileFormatVersion: 2
+guid: 356601d827ca86b4987dab83ab0128a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8818487283980312852
+    second: tux_bros_0
+  - first:
+      213: 8683147802638514396
+    second: tux_bros_1
+  - first:
+      213: -7763639936790678906
+    second: tux_bros_2
+  - first:
+      213: -262018796811054445
+    second: tux_bros_3
+  - first:
+      213: -573492961517405825
+    second: tux_bros_4
+  - first:
+      213: 7504458903460641828
+    second: tux_bros_5
+  - first:
+      213: -1731139598164091794
+    second: tux_bros_6
+  - first:
+      213: -3910431306938537599
+    second: tux_bros_7
+  - first:
+      213: -3503560869121272329
+    second: tux_bros_8
+  - first:
+      213: -7402180158543394533
+    second: tux_bros_9
+  - first:
+      213: -6771596598705900655
+    second: tux_bros_10
+  - first:
+      213: -7341066498474376734
+    second: tux_bros_11
+  - first:
+      213: -310083404105444777
+    second: tux_bros_12
+  - first:
+      213: -8340160746734420292
+    second: tux_bros_13
+  - first:
+      213: -6218585815633001008
+    second: tux_bros_14
+  - first:
+      213: 4157341107845810817
+    second: tux_bros_15
+  - first:
+      213: -1469615806920250028
+    second: tux_bros_16
+  - first:
+      213: 5442559440504274984
+    second: tux_bros_17
+  - first:
+      213: 3900804967964344716
+    second: tux_bros_18
+  - first:
+      213: 9209011059607921741
+    second: tux_bros_19
+  - first:
+      213: 9051181982154649146
+    second: tux_bros_20
+  - first:
+      213: 4940163223897598290
+    second: tux_bros_21
+  - first:
+      213: 3205446733362353728
+    second: tux_bros_22
+  - first:
+      213: -9040592382995240355
+    second: tux_bros_23
+  - first:
+      213: -7457383180963658651
+    second: tux_bros_24
+  - first:
+      213: -6951241694467224274
+    second: tux_bros_25
+  - first:
+      213: 1953909372669604851
+    second: tux_bros_26
+  - first:
+      213: 36182280258430247
+    second: tux_bros_27
+  - first:
+      213: 8245917813216383002
+    second: tux_bros_28
+  - first:
+      213: -3120071908417196295
+    second: tux_bros_29
+  - first:
+      213: 2659183144708364038
+    second: tux_bros_30
+  - first:
+      213: 2961811298050431490
+    second: tux_bros_31
+  - first:
+      213: -6647431453570497143
+    second: tux_bros_32
+  - first:
+      213: 5298187243546442745
+    second: tux_bros_33
+  - first:
+      213: -7330378182065341271
+    second: tux_bros_34
+  - first:
+      213: -1974033895817423215
+    second: tux_bros_35
+  - first:
+      213: -3831213604014979333
+    second: tux_bros_36
+  - first:
+      213: -8341737999694680925
+    second: tux_bros_37
+  - first:
+      213: -9078713380135988850
+    second: tux_bros_38
+  - first:
+      213: -6036108508308415209
+    second: tux_bros_39
+  - first:
+      213: 5269371976835409863
+    second: tux_bros_40
+  - first:
+      213: 5178749764806433163
+    second: tux_bros_41
+  - first:
+      213: -2636781804499071502
+    second: tux_bros_42
+  - first:
+      213: 6765834089967437998
+    second: tux_bros_43
+  - first:
+      213: -5458534564332977805
+    second: tux_bros_44
+  - first:
+      213: 7006603234315849456
+    second: tux_bros_45
+  - first:
+      213: -3394810121215845736
+    second: tux_bros_46
+  - first:
+      213: -5482728789563548252
+    second: tux_bros_47
+  - first:
+      213: -3955287872028251997
+    second: tux_bros_48
+  - first:
+      213: -1157563389214095749
+    second: tux_bros_49
+  - first:
+      213: -5466482769019743077
+    second: tux_bros_50
+  - first:
+      213: -6687482866259945484
+    second: tux_bros_51
+  - first:
+      213: 4003745496042083627
+    second: tux_bros_52
+  - first:
+      213: 4760137916090552507
+    second: tux_bros_53
+  - first:
+      213: 3426693522854037807
+    second: tux_bros_54
+  - first:
+      213: -2228309573951277183
+    second: tux_bros_55
+  - first:
+      213: -3514917575112261862
+    second: tux_bros_56
+  - first:
+      213: -6652080467658428766
+    second: tux_bros_57
+  - first:
+      213: -1777668872692460432
+    second: tux_bros_58
+  - first:
+      213: 2187181766588518075
+    second: tux_bros_59
+  - first:
+      213: -8197104035995717084
+    second: tux_bros_60
+  - first:
+      213: 3997164524688127622
+    second: tux_bros_61
+  - first:
+      213: 7242423827802606490
+    second: tux_bros_62
+  - first:
+      213: 7633890612094487078
+    second: tux_bros_63
+  - first:
+      213: 9220549094453785605
+    second: tux_bros_64
+  - first:
+      213: -8147384629636417842
+    second: tux_bros_65
+  - first:
+      213: -6763320521814165648
+    second: tux_bros_66
+  - first:
+      213: -8033061340649043510
+    second: tux_bros_67
+  - first:
+      213: 2333240971640794214
+    second: tux_bros_68
+  - first:
+      213: -5005547343997330498
+    second: tux_bros_69
+  - first:
+      213: 899919782987127308
+    second: tux_bros_70
+  - first:
+      213: 7711553143134331823
+    second: tux_bros_71
+  - first:
+      213: -7822593318442273401
+    second: tux_bros_72
+  - first:
+      213: 7725088172530792583
+    second: tux_bros_73
+  - first:
+      213: 3913391432165477426
+    second: tux_bros_74
+  - first:
+      213: 3112442484066208746
+    second: tux_bros_75
+  - first:
+      213: 1465393047460327493
+    second: tux_bros_76
+  - first:
+      213: 3205632015558138472
+    second: tux_bros_77
+  - first:
+      213: 2625972013207026250
+    second: tux_bros_78
+  - first:
+      213: 7239735685030768686
+    second: tux_bros_79
+  - first:
+      213: 598315797748345708
+    second: tux_bros_80
+  - first:
+      213: -2796569717756212648
+    second: tux_bros_81
+  - first:
+      213: -4142618576967884774
+    second: tux_bros_82
+  - first:
+      213: -331063847978468048
+    second: tux_bros_83
+  - first:
+      213: -5055203776875127335
+    second: tux_bros_84
+  - first:
+      213: 5334230938402120919
+    second: tux_bros_85
+  - first:
+      213: -5705785771810136726
+    second: tux_bros_86
+  - first:
+      213: 3755697582424182944
+    second: tux_bros_87
+  - first:
+      213: -6649245358648814801
+    second: tux_bros_88
+  - first:
+      213: 7497111333378066674
+    second: tux_bros_89
+  - first:
+      213: 47002001032855040
+    second: tux_bros_90
+  - first:
+      213: -878897280264304257
+    second: tux_bros_91
+  - first:
+      213: 8062469583303006032
+    second: tux_bros_92
+  - first:
+      213: -3203186720536803377
+    second: tux_bros_93
+  - first:
+      213: -5663094897431906817
+    second: tux_bros_94
+  - first:
+      213: 4444137774767136819
+    second: tux_bros_95
+  - first:
+      213: -5656054943823482784
+    second: tux_bros_96
+  - first:
+      213: 8208398469903388781
+    second: tux_bros_97
+  - first:
+      213: 6872916771611235587
+    second: tux_bros_98
+  - first:
+      213: 1358051788492522812
+    second: tux_bros_99
+  - first:
+      213: 4592289297197451800
+    second: tux_bros_100
+  - first:
+      213: -1834190885155120977
+    second: tux_bros_101
+  - first:
+      213: -5936433063638167886
+    second: tux_bros_102
+  - first:
+      213: 2235291351507734625
+    second: tux_bros_103
+  - first:
+      213: 8275174795981560373
+    second: tux_bros_104
+  - first:
+      213: -6057445151056198929
+    second: tux_bros_105
+  - first:
+      213: 3039400897022426376
+    second: tux_bros_106
+  - first:
+      213: -2102802956767887630
+    second: tux_bros_107
+  - first:
+      213: -6830676793518860723
+    second: tux_bros_108
+  - first:
+      213: 3508518780909166536
+    second: tux_bros_109
+  - first:
+      213: 8017406718801955856
+    second: tux_bros_110
+  - first:
+      213: -6564314007411833339
+    second: tux_bros_111
+  - first:
+      213: 1285790131872022599
+    second: tux_bros_112
+  - first:
+      213: 2660578785684065575
+    second: tux_bros_113
+  - first:
+      213: -375247106612691196
+    second: tux_bros_114
+  - first:
+      213: 8147054379783397600
+    second: tux_bros_115
+  - first:
+      213: 2014257252141612924
+    second: tux_bros_116
+  - first:
+      213: -7663838464335031438
+    second: tux_bros_117
+  - first:
+      213: -2827852889102415650
+    second: tux_bros_118
+  - first:
+      213: -7241921280493950900
+    second: tux_bros_119
+  - first:
+      213: -2488489760327854181
+    second: tux_bros_120
+  - first:
+      213: 8360130733920090724
+    second: tux_bros_121
+  - first:
+      213: 991296269014719026
+    second: tux_bros_122
+  - first:
+      213: 6677529485284015041
+    second: tux_bros_123
+  - first:
+      213: -8077306293224451593
+    second: tux_bros_124
+  - first:
+      213: 1591076551566424306
+    second: tux_bros_125
+  - first:
+      213: 6689069699317468951
+    second: tux_bros_126
+  - first:
+      213: 7539143452802161791
+    second: tux_bros_127
+  - first:
+      213: -3213518067720461679
+    second: tux_bros_128
+  - first:
+      213: 5972511724515773472
+    second: tux_bros_129
+  - first:
+      213: 5998655835291884911
+    second: tux_bros_130
+  - first:
+      213: -3355201592917263630
+    second: tux_bros_131
+  - first:
+      213: 8096053453314876615
+    second: tux_bros_132
+  - first:
+      213: 4158001166950903745
+    second: tux_bros_133
+  - first:
+      213: 6154760115116619695
+    second: tux_bros_134
+  - first:
+      213: 609563416696170840
+    second: tux_bros_135
+  - first:
+      213: -3037157877771107959
+    second: tux_bros_136
+  - first:
+      213: 779324737475604467
+    second: tux_bros_137
+  - first:
+      213: -6656425521779103605
+    second: tux_bros_138
+  - first:
+      213: 3539144994825332661
+    second: tux_bros_139
+  - first:
+      213: -2418539413941383223
+    second: tux_bros_140
+  - first:
+      213: -6249633177857752329
+    second: tux_bros_141
+  - first:
+      213: 224353501209410646
+    second: tux_bros_142
+  - first:
+      213: 8095148027477201885
+    second: tux_bros_143
+  - first:
+      213: 8463371672562095225
+    second: tux_bros_144
+  - first:
+      213: -1087894085140308605
+    second: tux_bros_145
+  - first:
+      213: 8811225956785390651
+    second: tux_bros_146
+  - first:
+      213: 1349648351528864316
+    second: tux_bros_147
+  - first:
+      213: -4049908903906184965
+    second: tux_bros_148
+  - first:
+      213: 8469604999145543779
+    second: tux_bros_149
+  - first:
+      213: -6329595862324619216
+    second: tux_bros_150
+  - first:
+      213: -6531858688171624016
+    second: tux_bros_151
+  - first:
+      213: -476233720115598859
+    second: tux_bros_152
+  - first:
+      213: 5401749042495863589
+    second: tux_bros_153
+  - first:
+      213: 2617462826429160529
+    second: tux_bros_154
+  - first:
+      213: -5913925061486842464
+    second: tux_bros_155
+  - first:
+      213: -7609390615780494276
+    second: tux_bros_156
+  - first:
+      213: 365516413876021679
+    second: tux_bros_157
+  - first:
+      213: 8949978867009539313
+    second: tux_bros_158
+  - first:
+      213: -4992398670931330341
+    second: tux_bros_159
+  - first:
+      213: -1139575196941458676
+    second: tux_bros_160
+  - first:
+      213: -7391375540287142548
+    second: tux_bros_161
+  - first:
+      213: -2012748726718091600
+    second: tux_bros_162
+  - first:
+      213: -6652766383909483362
+    second: tux_bros_163
+  - first:
+      213: 835776677690651239
+    second: tux_bros_164
+  - first:
+      213: 1999285261344765051
+    second: tux_bros_165
+  - first:
+      213: 1021641064770393220
+    second: tux_bros_166
+  - first:
+      213: -2839501754648391778
+    second: tux_bros_167
+  - first:
+      213: 3402000184044971678
+    second: tux_bros_168
+  - first:
+      213: 2471026339636973228
+    second: tux_bros_169
+  - first:
+      213: -6005435414804130210
+    second: tux_bros_170
+  - first:
+      213: 6710630712848459913
+    second: tux_bros_171
+  - first:
+      213: -5806021750917155260
+    second: tux_bros_172
+  - first:
+      213: -5630194065975233376
+    second: tux_bros_173
+  - first:
+      213: -2477813769444468156
+    second: tux_bros_174
+  - first:
+      213: 8625024511408002498
+    second: tux_bros_175
+  - first:
+      213: 7271463744841512011
+    second: tux_bros_176
+  - first:
+      213: 2691343156103938014
+    second: tux_bros_177
+  - first:
+      213: -8368039328598203410
+    second: tux_bros_178
+  - first:
+      213: 1062406801784306392
+    second: tux_bros_179
+  - first:
+      213: 5655853061024624231
+    second: tux_bros_180
+  - first:
+      213: -2964078106993152809
+    second: tux_bros_181
+  - first:
+      213: -2329740282838785224
+    second: tux_bros_182
+  - first:
+      213: -8725267325719318451
+    second: tux_bros_183
+  - first:
+      213: 5833265695472299019
+    second: tux_bros_184
+  - first:
+      213: -5596347344659989505
+    second: tux_bros_185
+  - first:
+      213: 1262474035958331169
+    second: tux_bros_186
+  - first:
+      213: 415606816157766569
+    second: tux_bros_187
+  - first:
+      213: 141061856659319598
+    second: tux_bros_188
+  - first:
+      213: 3300843606296337318
+    second: tux_bros_189
+  - first:
+      213: 2329248085782232995
+    second: tux_bros_190
+  - first:
+      213: -2396915013191693470
+    second: tux_bros_191
+  - first:
+      213: -1895021694784898106
+    second: tux_bros_192
+  - first:
+      213: -7061664487299234996
+    second: tux_bros_193
+  - first:
+      213: 218272413556206018
+    second: tux_bros_194
+  - first:
+      213: -3141592382249134782
+    second: tux_bros_195
+  - first:
+      213: 5964187541215099749
+    second: tux_bros_196
+  - first:
+      213: 1670812413839611275
+    second: tux_bros_197
+  - first:
+      213: -5358388272412662012
+    second: tux_bros_198
+  - first:
+      213: 7302899909206439344
+    second: tux_bros_199
+  - first:
+      213: 108973285382964698
+    second: tux_bros_200
+  - first:
+      213: 5671813209955680941
+    second: tux_bros_201
+  - first:
+      213: 6095750201009887903
+    second: tux_bros_202
+  - first:
+      213: 6325036917096534909
+    second: tux_bros_203
+  - first:
+      213: -6229625458596491070
+    second: tux_bros_204
+  - first:
+      213: 6058714041786512064
+    second: tux_bros_205
+  - first:
+      213: -6851353025019392043
+    second: tux_bros_206
+  - first:
+      213: 1846212468538915772
+    second: tux_bros_207
+  - first:
+      213: 1677876514117070676
+    second: tux_bros_208
+  - first:
+      213: -8631118507373980247
+    second: tux_bros_209
+  - first:
+      213: -6514685711249477640
+    second: tux_bros_210
+  - first:
+      213: 2914611239740561937
+    second: tux_bros_211
+  - first:
+      213: -1636346009685618633
+    second: tux_bros_212
+  - first:
+      213: -4340720885159642517
+    second: tux_bros_213
+  - first:
+      213: -8712394321272359912
+    second: tux_bros_214
+  - first:
+      213: -5133265375939844326
+    second: tux_bros_215
+  - first:
+      213: -8976671312514607161
+    second: tux_bros_216
+  - first:
+      213: 4869363701025412292
+    second: tux_bros_217
+  - first:
+      213: 2245828549154226011
+    second: tux_bros_218
+  - first:
+      213: -8083341136142800617
+    second: tux_bros_219
+  - first:
+      213: 2613247322509829412
+    second: tux_bros_220
+  - first:
+      213: -4043527061147340368
+    second: tux_bros_221
+  - first:
+      213: -3624817322060533136
+    second: tux_bros_222
+  - first:
+      213: -2636706795149936766
+    second: tux_bros_223
+  - first:
+      213: -2673991856742567836
+    second: tux_bros_224
+  - first:
+      213: 8339583718702247743
+    second: tux_bros_225
+  - first:
+      213: -4008409409353615326
+    second: tux_bros_226
+  - first:
+      213: 159153254321208385
+    second: tux_bros_227
+  - first:
+      213: -971294289593498154
+    second: tux_bros_228
+  - first:
+      213: -1028666588517465938
+    second: tux_bros_229
+  - first:
+      213: 6450587988549109765
+    second: tux_bros_230
+  - first:
+      213: -8690957990298807177
+    second: tux_bros_231
+  - first:
+      213: -4213265967408245726
+    second: tux_bros_232
+  - first:
+      213: 6981397362666348531
+    second: tux_bros_233
+  - first:
+      213: 6323840648300041219
+    second: tux_bros_234
+  - first:
+      213: -2609451935795339083
+    second: tux_bros_235
+  - first:
+      213: -6894932357707756961
+    second: tux_bros_236
+  - first:
+      213: 3827018150214294330
+    second: tux_bros_237
+  - first:
+      213: 7833140686013679832
+    second: tux_bros_238
+  - first:
+      213: -6441607537831329791
+    second: tux_bros_239
+  - first:
+      213: -7186815116986584442
+    second: tux_bros_240
+  - first:
+      213: 4180118596144873080
+    second: tux_bros_241
+  - first:
+      213: 7495647136844803312
+    second: tux_bros_242
+  - first:
+      213: 5759181829874081028
+    second: tux_bros_243
+  - first:
+      213: -6473836227942686754
+    second: tux_bros_244
+  - first:
+      213: 480976238520472952
+    second: tux_bros_245
+  - first:
+      213: 6059273470636918356
+    second: tux_bros_246
+  - first:
+      213: 4114071070908395935
+    second: tux_bros_247
+  - first:
+      213: 6896008171655498927
+    second: tux_bros_248
+  - first:
+      213: 2481571242640716217
+    second: tux_bros_249
+  - first:
+      213: 5826193732473212940
+    second: tux_bros_250
+  - first:
+      213: -3666120918598494212
+    second: tux_bros_251
+  - first:
+      213: 8374637660736986855
+    second: tux_bros_252
+  - first:
+      213: -6971824356228353418
+    second: tux_bros_253
+  - first:
+      213: -3639638221857139027
+    second: tux_bros_254
+  - first:
+      213: 3688342268869195437
+    second: tux_bros_255
+  - first:
+      213: 1225531110527431998
+    second: tux_bros_256
+  - first:
+      213: -3351336334412065093
+    second: tux_bros_257
+  - first:
+      213: -8664960401832488120
+    second: tux_bros_258
+  - first:
+      213: -4627582502798489309
+    second: tux_bros_259
+  - first:
+      213: -8403366846580797806
+    second: tux_bros_260
+  - first:
+      213: 3497760955699631968
+    second: tux_bros_261
+  - first:
+      213: -3448357082928203198
+    second: tux_bros_262
+  - first:
+      213: 7861430191626654545
+    second: tux_bros_263
+  - first:
+      213: 539932210640678389
+    second: tux_bros_264
+  - first:
+      213: 5800632911322619721
+    second: tux_bros_265
+  - first:
+      213: -4712582101206547628
+    second: tux_bros_266
+  - first:
+      213: 3344827851472496932
+    second: tux_bros_267
+  - first:
+      213: -7343712011206766633
+    second: tux_bros_268
+  - first:
+      213: 7373146456590291741
+    second: tux_bros_269
+  - first:
+      213: 4296819138799997313
+    second: tux_bros_270
+  - first:
+      213: 4377773708306101378
+    second: tux_bros_271
+  - first:
+      213: 6792421805736523731
+    second: tux_bros_272
+  - first:
+      213: -2477560848455479180
+    second: tux_bros_273
+  - first:
+      213: -8807418613688536401
+    second: tux_bros_274
+  - first:
+      213: 1694393109526636177
+    second: tux_bros_275
+  - first:
+      213: 5305886331853033740
+    second: tux_bros_276
+  - first:
+      213: -3664916335623879981
+    second: tux_bros_277
+  - first:
+      213: 134255972254748095
+    second: tux_bros_278
+  - first:
+      213: 2982504761719297630
+    second: tux_bros_279
+  - first:
+      213: -399863222937540524
+    second: tux_bros_280
+  - first:
+      213: -8763829017476005561
+    second: tux_bros_281
+  - first:
+      213: 2653816030770576596
+    second: tux_bros_282
+  - first:
+      213: 1444593120462006051
+    second: tux_bros_283
+  - first:
+      213: -8675839170761810365
+    second: tux_bros_284
+  - first:
+      213: 3510894696565585931
+    second: tux_bros_285
+  - first:
+      213: -1356987993053162261
+    second: tux_bros_286
+  - first:
+      213: -3129307147248673958
+    second: tux_bros_287
+  - first:
+      213: -5266058838951519055
+    second: tux_bros_288
+  - first:
+      213: -8320760886530817139
+    second: tux_bros_289
+  - first:
+      213: 5204544265337995115
+    second: tux_bros_290
+  - first:
+      213: -6658531372010763888
+    second: tux_bros_291
+  - first:
+      213: 257419782642708151
+    second: tux_bros_292
+  - first:
+      213: 7539606641951935674
+    second: tux_bros_293
+  - first:
+      213: 6162287320083694400
+    second: tux_bros_294
+  - first:
+      213: -3171726510647114029
+    second: tux_bros_295
+  - first:
+      213: -5950967092994212264
+    second: tux_bros_296
+  - first:
+      213: -5555872160205428183
+    second: tux_bros_297
+  - first:
+      213: 5622791890681140365
+    second: tux_bros_298
+  - first:
+      213: 960102845728754150
+    second: tux_bros_299
+  - first:
+      213: -4836921101322328626
+    second: tux_bros_300
+  - first:
+      213: 9002453160613964610
+    second: tux_bros_301
+  - first:
+      213: -4158824487207201049
+    second: tux_bros_302
+  - first:
+      213: 1661755497044185828
+    second: tux_bros_303
+  - first:
+      213: 5177031698718625540
+    second: tux_bros_304
+  - first:
+      213: 4002185672356791455
+    second: tux_bros_305
+  - first:
+      213: 5249722481213233323
+    second: tux_bros_306
+  - first:
+      213: 2632837350417524870
+    second: tux_bros_307
+  - first:
+      213: 2562487738677865244
+    second: tux_bros_308
+  - first:
+      213: -8162009136701446743
+    second: tux_bros_309
+  - first:
+      213: -7861581847793099410
+    second: tux_bros_310
+  - first:
+      213: -2614919453795158649
+    second: tux_bros_311
+  - first:
+      213: -513669006032968992
+    second: tux_bros_312
+  - first:
+      213: -1023473808153152760
+    second: tux_bros_313
+  - first:
+      213: 3775670318205098123
+    second: tux_bros_314
+  - first:
+      213: -7647157721555517520
+    second: tux_bros_315
+  - first:
+      213: -7287521894650219094
+    second: tux_bros_316
+  - first:
+      213: -1619056524941319162
+    second: tux_bros_317
+  - first:
+      213: -7858007715037451964
+    second: tux_bros_318
+  - first:
+      213: -5322523455037397337
+    second: tux_bros_319
+  - first:
+      213: -7453670584658499546
+    second: tux_bros_320
+  - first:
+      213: -7780372169254845219
+    second: tux_bros_321
+  - first:
+      213: 2587424636659363266
+    second: tux_bros_322
+  - first:
+      213: -3539327100232028331
+    second: tux_bros_323
+  - first:
+      213: 8317102771541075130
+    second: tux_bros_324
+  - first:
+      213: 2219231532800452851
+    second: tux_bros_325
+  - first:
+      213: -6769576621376954764
+    second: tux_bros_326
+  - first:
+      213: -2792261763673335309
+    second: tux_bros_327
+  - first:
+      213: 6300641724837976835
+    second: tux_bros_328
+  - first:
+      213: 823159850416024632
+    second: tux_bros_329
+  - first:
+      213: 1381303523964163261
+    second: tux_bros_330
+  - first:
+      213: 6715384335127621064
+    second: tux_bros_331
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tux_bros_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 256
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41122f1667f816a70800000000000000
+      internalID: 8818487283980312852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87b74dbecb08870800000000000000
+      internalID: 8683147802638514396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2033
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6823e8b6c92024490800000000000000
+      internalID: -7763639936790678906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921a93ea4f1d5cf0800000000000000
+      internalID: -262018796811054445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f797193a03b8a08f0800000000000000
+      internalID: -573492961517405825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cf944cc91352860800000000000000
+      internalID: 7504458903460641828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c11da15b1c9f7e0800000000000000
+      internalID: -1731139598164091794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2034
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ac57d17b5bb9c0800000000000000
+      internalID: -3910431306938537599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2033
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55113c3f9d06fc0800000000000000
+      internalID: -3503560869121272329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2032
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19839e3d5c264990800000000000000
+      internalID: -7402180158543394533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2016
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19334eb55c47602a0800000000000000
+      internalID: -6771596598705900655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1984
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10aed0aea4f1a90800000000000000
+      internalID: -7341066498474376734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521d8f69cc52bbf0800000000000000
+      internalID: -310083404105444777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbefc392dfbc14c80800000000000000
+      internalID: -8340160746734420292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d589ede52523b9a0800000000000000
+      internalID: -6218585815633001008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a474706b7d1b930800000000000000
+      internalID: 4157341107845810817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_16
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2830c530ea9be0800000000000000
+      internalID: -1469615806920250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_17
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2016
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c438a9fad78b40800000000000000
+      internalID: 5442559440504274984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2016
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8108957371722630800000000000000
+      internalID: 3900804967964344716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2020
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44e29c64cafccf70800000000000000
+      internalID: 9209011059607921741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1984
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6ebbbe024c9d70800000000000000
+      internalID: 9051181982154649146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1968
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596ddc274cfe8440800000000000000
+      internalID: 4940163223897598290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1952
+        width: 192
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046df7022d80c7c20800000000000000
+      internalID: 3205446733362353728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1696
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6774702d598280800000000000000
+      internalID: -9040592382995240355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1968
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56440b0028d028890800000000000000
+      internalID: -7457383180963658651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1856
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8565128a388f90800000000000000
+      internalID: -6951241694467224274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 144
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33741e83ead1b10800000000000000
+      internalID: 1953909372669604851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1949
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a7f9979b808000800000000000000
+      internalID: 36182280258430247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1937
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1014d7ff826f6270800000000000000
+      internalID: 8245917813216383002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1936
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe2e11512743b4d0800000000000000
+      internalID: -3120071908417196295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_30
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1937
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075c0d2bf057e420800000000000000
+      internalID: 2659183144708364038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1904
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad808eea77a1920800000000000000
+      internalID: 2961811298050431490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1936
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850c2500549fb3a0800000000000000
+      internalID: -6647431453570497143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1904
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb771d1a31f68940800000000000000
+      internalID: 5298187243546442745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1936
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb8b4a1e3454a90800000000000000
+      internalID: -7330378182065341271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d83171a2da94e0800000000000000
+      internalID: -1974033895817423215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1921
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60b0a968bc4dac0800000000000000
+      internalID: -3831213604014979333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac22d65c713c3c80800000000000000
+      internalID: -8341737999694680925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819867284ee10280800000000000000
+      internalID: -9078713380135988850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_39
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5098da4f6b3ca0800000000000000
+      internalID: -6036108508308415209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_40
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c72ca405e1902940800000000000000
+      internalID: 5269371976835409863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89dcef097d9ed740800000000000000
+      internalID: 5178749764806433163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_42
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8e984be4486bd0800000000000000
+      internalID: -2636781804499071502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_43
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1929
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ccb5024215ed50800000000000000
+      internalID: 6765834089967437998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_44
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371cdbafbb36f34b0800000000000000
+      internalID: -5458534564332977805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fecf7fd4847c3160800000000000000
+      internalID: 7006603234315849456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a57056e2633e0d0800000000000000
+      internalID: -3394810121215845736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add142f63f69e3b0800000000000000
+      internalID: -5482728789563548252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_48
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8685be2aefb19c0800000000000000
+      internalID: -3955287872028251997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7685e40b328fefe0800000000000000
+      internalID: -1157563389214095749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_50
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d8cd52e62324b0800000000000000
+      internalID: -5466482769019743077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1928
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79013d3c94133a0800000000000000
+      internalID: -6687482866259945484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2598aed059209730800000000000000
+      internalID: 4003745496042083627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_53
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb01272e6386f0240800000000000000
+      internalID: 4760137916090552507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c8d78a9f0e8f20800000000000000
+      internalID: 3426693522854037807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_55
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873803af347311e0800000000000000
+      internalID: -2228309573951277183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_56
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff7a89611883fc0800000000000000
+      internalID: -3514917575112261862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea7e31f001fa3a0800000000000000
+      internalID: -6652080467658428766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_58
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07495ea24937457e0800000000000000
+      internalID: -1777668872692460432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_59
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1929
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe48b08a3e6a5e10800000000000000
+      internalID: 2187181766588518075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_60
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fd833f490e3e80800000000000000
+      internalID: -8197104035995717084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_61
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68634d215f7c87730800000000000000
+      internalID: 3997164524688127622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1912
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bcff07912428460800000000000000
+      internalID: 7242423827802606490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_63
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1916
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac41cc01701f960800000000000000
+      internalID: 7633890612094487078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_64
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1913
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b7f08c88f5ff70800000000000000
+      internalID: 9220549094453785605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_65
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1913
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63b0698dcaeee80800000000000000
+      internalID: -8147384629636417842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_66
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077382ba1dbd322a0800000000000000
+      internalID: -6763320521814165648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_67
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c0bb8545d48090800000000000000
+      internalID: -8033061340649043510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1917
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c690a3d46516020800000000000000
+      internalID: 2333240971640794214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb93ae0639b88ab0800000000000000
+      internalID: -5005547343997330498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_70
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5b4f46482d7c00800000000000000
+      internalID: 899919782987127308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_71
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1921
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a113e9b0f40b60800000000000000
+      internalID: 7711553143134331823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1904
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78577ef92d0907390800000000000000
+      internalID: -7822593318442273401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_73
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1913
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f44e73c6053b60800000000000000
+      internalID: 7725088172530792583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_74
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1913
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc74506c82f4630800000000000000
+      internalID: 3913391432165477426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1824
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc996e2fd913b20800000000000000
+      internalID: 3112442484066208746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_76
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1872
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5403332763f165410800000000000000
+      internalID: 1465393047460327493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1584
+        width: 256
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a56ff7551bc7c20800000000000000
+      internalID: 3205632015558138472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_78
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1856
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a725d02a3517420800000000000000
+      internalID: 2625972013207026250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1840
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207afd6f35b87460800000000000000
+      internalID: 7239735685030768686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1824
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6b4c4c05ad4800800000000000000
+      internalID: 598315797748345708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_81
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1696
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac68798a69039d0800000000000000
+      internalID: -2796569717756212648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1744
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1025ef4a567286c0800000000000000
+      internalID: -4142618576967884774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1744
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df44f2f23d76bf0800000000000000
+      internalID: -331063847978468048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1664
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1524d2fe48d9b0800000000000000
+      internalID: -5055203776875127335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46b59c6cef60a40800000000000000
+      internalID: 5334230938402120919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d57c2321af0d0b0800000000000000
+      internalID: -5705785771810136726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1288
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0df2c7d0bee1430800000000000000
+      internalID: 3755697582424182944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_88
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239255539229b3a0800000000000000
+      internalID: -6649245358648814801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_89
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80e8b49071b0860800000000000000
+      internalID: 7497111333378066674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_90
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ebb47221cf6a000800000000000000
+      internalID: 47002001032855040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_91
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f790ac784978dc3f0800000000000000
+      internalID: -878897280264304257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_92
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057da258e55a3ef60800000000000000
+      internalID: 8062469583303006032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c72d16aefb83d0800000000000000
+      internalID: -3203186720536803377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_94
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff57e35f135a861b0800000000000000
+      internalID: -5663094897431906817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e3e592cfbcad30800000000000000
+      internalID: 4444137774767136819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603f43eef7a181b0800000000000000
+      internalID: -5656054943823482784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60937d1be61ae170800000000000000
+      internalID: 8208398469903388781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_98
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1417
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30556b6b361816f50800000000000000
+      internalID: 6872916771611235587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354ea708e4c8d210800000000000000
+      internalID: 1358051788492522812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_100
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4849e8c61bbf30800000000000000
+      internalID: 4592289297197451800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_101
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d110ab15ab86e0800000000000000
+      internalID: -1834190885155120977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be86f8c49d8d9da0800000000000000
+      internalID: -5936433063638167886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_103
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601f1024a9550f10800000000000000
+      internalID: 2235291351507734625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1fb812a357d270800000000000000
+      internalID: 8275174795981560373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_105
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe202e49ab1afeba0800000000000000
+      internalID: -6057445151056198929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d760d230f1e2a20800000000000000
+      internalID: 3039400897022426376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_107
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe75391ad751d2e0800000000000000
+      internalID: -2102802956767887630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_108
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ddc295af8431a0800000000000000
+      internalID: -6830676793518860723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf90e70e33c0b030800000000000000
+      internalID: 3508518780909166536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c4506ceec834f60800000000000000
+      internalID: 8017406718801955856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_111
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c812803fd6e4a0800000000000000
+      internalID: -6564314007411833339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_112
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7404fe1005b08d110800000000000000
+      internalID: 1285790131872022599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d83a92f464ce420800000000000000
+      internalID: 2660578785684065575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_114
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f7b53aebadacaf0800000000000000
+      internalID: -375247106612691196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_115
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a7c02bc6201170800000000000000
+      internalID: 8147054379783397600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_116
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb7208c4414fb10800000000000000
+      internalID: 2014257252141612924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_117
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d55d758394a590800000000000000
+      internalID: -7663838464335031438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_118
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80dfba7c271c8d0800000000000000
+      internalID: -2827852889102415650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_119
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e0d8f6f68f7b90800000000000000
+      internalID: -7241921280493950900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_120
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9716706fbb177dd0800000000000000
+      internalID: -2488489760327854181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af12fcb96250470800000000000000
+      internalID: 8360130733920090724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_122
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23adacd54bac1cd00800000000000000
+      internalID: 991296269014719026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_123
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfc8310b95bac50800000000000000
+      internalID: 6677529485284015041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_124
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f15452c8b4a7ef80800000000000000
+      internalID: -8077306293224451593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_125
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f19a91b3a41610800000000000000
+      internalID: 1591076551566424306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f85a9837954dc50800000000000000
+      internalID: 6689069699317468951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_127
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1cf6b60b60a860800000000000000
+      internalID: 7539143452802161791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_128
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e836e75a4763d0800000000000000
+      internalID: -3213518067720461679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_129
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4e9c05cf92e250800000000000000
+      internalID: 5972511724515773472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_130
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d956033b18f3350800000000000000
+      internalID: 5998655835291884911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_131
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa77588dedef61d0800000000000000
+      internalID: -3355201592917263630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_132
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4686798b5fa5070800000000000000
+      internalID: 8096053453314876615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_133
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa4c3080034b930800000000000000
+      internalID: 4158001166950903745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_134
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1401
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b44327b91a6550800000000000000
+      internalID: 6154760115116619695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_135
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859af38a2ba957800800000000000000
+      internalID: 609563416696170840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_136
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1401
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818ca07009d9d5d0800000000000000
+      internalID: -3037157877771107959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_137
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff68ed38b7b0da00800000000000000
+      internalID: 779324737475604467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8823845140af93a0800000000000000
+      internalID: -6656425521779103605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_139
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76a212f919d1130800000000000000
+      internalID: 3539144994825332661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_140
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0ebc873f9f6ed0800000000000000
+      internalID: -2418539413941383223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_141
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20b499cb7d449a0800000000000000
+      internalID: -6249633177857752329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb3b712501d1300800000000000000
+      internalID: 224353501209410646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_143
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39bf5bd3eb75070800000000000000
+      internalID: 8095148027477201885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974da2102bfe37570800000000000000
+      internalID: 8463371672562095225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_145
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d96fde71607e0f0800000000000000
+      internalID: -1087894085140308605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_146
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3405e5e253c74a70800000000000000
+      internalID: 8811225956785390651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_147
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac194660aeab210800000000000000
+      internalID: 1349648351528864316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_148
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0faf92f45dbc7c0800000000000000
+      internalID: -4049908903906184965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_149
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36851f17fd41a8570800000000000000
+      internalID: 8469604999145543779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_150
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038db5e4912c828a0800000000000000
+      internalID: -6329595862324619216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_151
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1393
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93b70612d2a55a0800000000000000
+      internalID: -6531858688171624016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_152
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9627a64f31469f0800000000000000
+      internalID: -476233720115598859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_153
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb5cb622ed6fa40800000000000000
+      internalID: 5401749042495863589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_154
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c991e9298135420800000000000000
+      internalID: 2617462826429160529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_155
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adebc96d748deda0800000000000000
+      internalID: -5913925061486842464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_156
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34763d1d83066690800000000000000
+      internalID: -7609390615780494276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_157
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a7a8ed33921500800000000000000
+      internalID: 365516413876021679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_158
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1377
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc4b5b4c56b43c70800000000000000
+      internalID: 8949978867009539313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_159
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda71021cdf67bab0800000000000000
+      internalID: -4992398670931330341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_160
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036577656a6f20f0800000000000000
+      internalID: -1139575196941458676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_161
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658ca77b1f8c6990800000000000000
+      internalID: -7391375540287142548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_162
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be29d172b74114e0800000000000000
+      internalID: -2012748726718091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_163
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4a61c830aca3a0800000000000000
+      internalID: -6652766383909483362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_164
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762be41d576499b00800000000000000
+      internalID: 835776677690651239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_165
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f02f3a53eebb10800000000000000
+      internalID: 1999285261344765051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_166
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845791b2299d2e00800000000000000
+      internalID: 1021641064770393220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_167
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f851fc2301898d0800000000000000
+      internalID: -2839501754648391778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_168
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9660df8425563f20800000000000000
+      internalID: 3402000184044971678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_169
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae02b42d59da4220800000000000000
+      internalID: 2471026339636973228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_170
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569c03fe4868aca0800000000000000
+      internalID: -6005435414804130210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_171
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a8223413f02d50800000000000000
+      internalID: 6710630712848459913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446346aaafddc6fa0800000000000000
+      internalID: -5806021750917155260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_173
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1377
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4b809b3588dd1b0800000000000000
+      internalID: -5630194065975233376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_174
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad0b431890d9dd0800000000000000
+      internalID: -2477813769444468156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_175
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d285881e32b770800000000000000
+      internalID: 8625024511408002498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f86400cd69e460800000000000000
+      internalID: 7271463744841512011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_177
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff0445752995520800000000000000
+      internalID: 2691343156103938014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_178
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e7600190cedb80800000000000000
+      internalID: -8368039328598203410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_179
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daff4b7b5d6ebe00800000000000000
+      internalID: 1062406801784306392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_180
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ead2c9460ad7e40800000000000000
+      internalID: 5655853061024624231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_181
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc29228aaa7dd6d0800000000000000
+      internalID: -2964078106993152809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_182
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e9766e891bafd0800000000000000
+      internalID: -2329740282838785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_183
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407d20889f99e680800000000000000
+      internalID: -8725267325719318451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_184
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c291b7e3ce3f050800000000000000
+      internalID: 5833265695472299019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_185
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1377
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb37d1adb7c552b0800000000000000
+      internalID: -5596347344659989505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_186
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12733736275358110800000000000000
+      internalID: 1262474035958331169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_187
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39053823884c500800000000000000
+      internalID: 415606816157766569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_188
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2981e20725f100800000000000000
+      internalID: 141061856659319598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_189
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab996475c3fecd20800000000000000
+      internalID: 3300843606296337318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_190
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1369
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affeca0bc6235020800000000000000
+      internalID: 2329248085782232995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_191
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b88e1be727cbed0800000000000000
+      internalID: -2396915013191693470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_192
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbffa01fc783b5e0800000000000000
+      internalID: -1895021694784898106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_193
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c987209deffd90800000000000000
+      internalID: -7061664487299234996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_194
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e84a8a95770300800000000000000
+      internalID: 218272413556206018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_195
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24597fa8f52d664d0800000000000000
+      internalID: -3141592382249134782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_196
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbfe718fc05c250800000000000000
+      internalID: 5964187541215099749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_197
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85193db90bef2710800000000000000
+      internalID: 1670812413839611275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_198
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1369
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076936914e23a5b0800000000000000
+      internalID: -5358388272412662012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57b7666cc195560800000000000000
+      internalID: 7302899909206439344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_200
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5424d20a6238100800000000000000
+      internalID: 108973285382964698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_201
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c6cb501456be40800000000000000
+      internalID: 5671813209955680941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_202
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad5bad284789450800000000000000
+      internalID: 6095750201009887903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_203
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7355ca809b07c750800000000000000
+      internalID: 6325036917096534909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_204
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c050a0c6aceb89a0800000000000000
+      internalID: -6229625458596491070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_205
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1361
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23b501250e41450800000000000000
+      internalID: 6058714041786512064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfcbe849ba1be0a0800000000000000
+      internalID: -6851353025019392043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_207
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb82f55701f9910800000000000000
+      internalID: 1846212468538915772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_208
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2be0ccc3094710800000000000000
+      internalID: 1677876514117070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_209
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a59ca9727b183880800000000000000
+      internalID: -8631118507373980247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_210
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff69a5acdf2795a0800000000000000
+      internalID: -6514685711249477640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_211
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad813fa77c27820800000000000000
+      internalID: 2914611239740561937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_212
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309f0359f78a49e0800000000000000
+      internalID: -1636346009685618633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_213
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab0f26a59a2c3c0800000000000000
+      internalID: -4340720885159642517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_214
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143e69668b571780800000000000000
+      internalID: -8712394321272359912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_215
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172b49765af2c8b0800000000000000
+      internalID: -5133265375939844326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_216
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7902070057c6380800000000000000
+      internalID: -8976671312514607161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_217
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41dc1bc74739340800000000000000
+      internalID: 4869363701025412292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_218
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb4c2aa29ca2f10800000000000000
+      internalID: 2245828549154226011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_219
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e7e5601432df80800000000000000
+      internalID: -8083341136142800617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_220
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4256070289e144420800000000000000
+      internalID: 2613247322509829412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_221
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b132a8bf8182e7c0800000000000000
+      internalID: -4043527061147340368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_222
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07236e6c9df02bdc0800000000000000
+      internalID: -3624817322060533136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_223
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ba32c329886bd0800000000000000
+      internalID: -2636706795149936766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_224
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460729ed29214ead0800000000000000
+      internalID: -2673991856742567836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_225
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe0e705372cb370800000000000000
+      internalID: 8339583718702247743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_226
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f42131e44f58c0800000000000000
+      internalID: -4008409409353615326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_227
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb9a4aa0d653200800000000000000
+      internalID: 159153254321208385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50a606df44582f0800000000000000
+      internalID: -971294289593498154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_229
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08a17103179b1f0800000000000000
+      internalID: -1028666588517465938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_230
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5080fd15997158950800000000000000
+      internalID: 6450587988549109765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_231
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1353
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774956621c3836780800000000000000
+      internalID: -8690957990298807177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_232
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224936cece87785c0800000000000000
+      internalID: -4213265967408245726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_233
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff939d89e7e2e060800000000000000
+      internalID: 6981397362666348531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_234
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3049912809bc2c750800000000000000
+      internalID: 6323840648300041219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_235
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a6743a4d59cbd0800000000000000
+      internalID: -2609451935795339083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_236
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8b743d874050a0800000000000000
+      internalID: -6894932357707756961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_237
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bde703bbc4c1530800000000000000
+      internalID: 3827018150214294330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_238
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d84181c3f7e4bc60800000000000000
+      internalID: 7833140686013679832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_239
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c51dc210da96a0800000000000000
+      internalID: -6441607537831329791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_240
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827b9d7abd434c90800000000000000
+      internalID: -7186815116986584442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_241
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e383a47b3c20a30800000000000000
+      internalID: 4180118596144873080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_242
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcee497b53e50860800000000000000
+      internalID: 7495647136844803312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_243
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d578e5c59bcef40800000000000000
+      internalID: 5759181829874081028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_244
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1337
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdb6320405826a0800000000000000
+      internalID: -6473836227942686754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_245
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759a623755cca600800000000000000
+      internalID: 480976238520472952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_246
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456034e3e1dd61450800000000000000
+      internalID: 6059273470636918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_247
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b43a77dd181930800000000000000
+      internalID: 4114071070908395935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_248
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac87bf35ea83bf50800000000000000
+      internalID: 6896008171655498927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_249
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1bc62b5ef407220800000000000000
+      internalID: 2481571242640716217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_250
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c005ca8c45ccad050800000000000000
+      internalID: 5826193732473212940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_251
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7de4fc2725f1dc0800000000000000
+      internalID: -3666120918598494212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_252
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee16dae490b83470800000000000000
+      internalID: 8374637660736986855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_253
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b792bfaa1f3f90800000000000000
+      internalID: -6971824356228353418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_254
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6554322586d7dc0800000000000000
+      internalID: -3639638221857139027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b10a70cf9f2330800000000000000
+      internalID: 3688342268869195437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_256
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357d284d06f10110800000000000000
+      internalID: 1225531110527431998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_257
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1313
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb652882c59ad71d0800000000000000
+      internalID: -3351336334412065093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_258
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d2f76c60efb780800000000000000
+      internalID: -8664960401832488120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_259
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32902ef4b3687cfb0800000000000000
+      internalID: -4627582502798489309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_260
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec140406e316b80800000000000000
+      internalID: -8403366846580797806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_261
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06715b9ae0b8a8030800000000000000
+      internalID: 3497760955699631968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_262
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abc55d089f420d0800000000000000
+      internalID: -3448357082928203198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_263
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153107e8b19691d60800000000000000
+      internalID: 7861430191626654545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_264
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd67022c793e7700800000000000000
+      internalID: 539932210640678389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_265
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f13d756ecff7050800000000000000
+      internalID: 5800632911322619721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_266
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45348ba1c8b899eb0800000000000000
+      internalID: -4712582101206547628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_267
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e9d195373b6e20800000000000000
+      internalID: 3344827851472496932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_268
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df404f95d4e51a90800000000000000
+      internalID: -7343712011206766633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_269
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d139efd33ada25660800000000000000
+      internalID: 7373146456590291741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_270
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811640cd3e51ab30800000000000000
+      internalID: 4296819138799997313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_271
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28431a64ef9f0cc30800000000000000
+      internalID: 4377773708306101378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_272
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7fa8ff4a7834e50800000000000000
+      internalID: 6792421805736523731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_273
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4705566f88fed9dd0800000000000000
+      internalID: -2477560848455479180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_274
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27eee3f63c5c580800000000000000
+      internalID: -8807418613688536401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_275
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196643b4e81b38710800000000000000
+      internalID: 1694393109526636177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_276
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0153bcc18b42a940800000000000000
+      internalID: 5305886331853033740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_277
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cc93a20a932dc0800000000000000
+      internalID: -3664916335623879981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_278
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd083f6819fcd100800000000000000
+      internalID: 134255972254748095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_279
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56903f574cf36920800000000000000
+      internalID: 2982504761719297630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_280
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a01e6486637af0800000000000000
+      internalID: -399863222937540524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_281
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741051df0ff906680800000000000000
+      internalID: -8763829017476005561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_282
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc31559e9f34d420800000000000000
+      internalID: 2653816030770576596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_283
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1297
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3276c1e0ac93c0410800000000000000
+      internalID: 1444593120462006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_284
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9252ad3a399780800000000000000
+      internalID: -8675839170761810365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_285
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083890002439b030800000000000000
+      internalID: 3510894696565585931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_286
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be498952c920b2de0800000000000000
+      internalID: -1356987993053162261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_287
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1297
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd627bab77294d0800000000000000
+      internalID: -3129307147248673958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_288
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1df103633be6b0800000000000000
+      internalID: -5266058838951519055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_289
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83cd591f08b68c80800000000000000
+      internalID: -8320760886530817139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_290
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f74493f614a3840800000000000000
+      internalID: 5204544265337995115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_291
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099018ddef42893a0800000000000000
+      internalID: -6658531372010763888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_292
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea39eade9829300800000000000000
+      internalID: 257419782642708151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_293
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc88b75b4012a860800000000000000
+      internalID: 7539606641951935674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_294
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438b7d1ba7d48550800000000000000
+      internalID: 6162287320083694400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_295
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d680380b83cbf3d0800000000000000
+      internalID: -3171726510647114029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_296
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1289
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7a0065fae96da0800000000000000
+      internalID: -5950967092994212264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_297
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1289
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2971e4b395e2b0800000000000000
+      internalID: -5555872160205428183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_298
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841ff90f6b280e40800000000000000
+      internalID: 5622791890681140365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_299
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9018b8378f25d00800000000000000
+      internalID: 960102845728754150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_300
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5671da2edcfdcb0800000000000000
+      internalID: -4836921101322328626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_301
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bec79d3732fec70800000000000000
+      internalID: 9002453160613964610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_302
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e691dcc923e846c0800000000000000
+      internalID: -4158824487207201049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_303
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e21fd8f1ddbf0710800000000000000
+      internalID: 1661755497044185828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_304
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f8f01a6e288d740800000000000000
+      internalID: 5177031698718625540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_305
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940cfd1aae9a8730800000000000000
+      internalID: 4002185672356791455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_306
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d81e48c2cad840800000000000000
+      internalID: 5249722481213233323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_307
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688640fee97b98420800000000000000
+      internalID: 2632837350417524870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_308
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b203d8509cf8320800000000000000
+      internalID: 2562487738677865244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_309
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ea613fe7babe80800000000000000
+      internalID: -8162009136701446743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_310
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d12ad36fc06e290800000000000000
+      internalID: -7861581847793099410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_311
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f7487c90f5bbd0800000000000000
+      internalID: -2614919453795158649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_312
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e643b2c41fd8f0800000000000000
+      internalID: -513669006032968992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_313
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037d1c7ef3ebc1f0800000000000000
+      internalID: -1023473808153152760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_314
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d9996620e56430800000000000000
+      internalID: 3775670318205098123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_315
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3c419196dfd590800000000000000
+      internalID: -7647157721555517520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_316
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5fd70a2758dda90800000000000000
+      internalID: -7287521894650219094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_317
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604289f2ba4f789e0800000000000000
+      internalID: -1619056524941319162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_318
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e9eedd9fb2f290800000000000000
+      internalID: -7858007715037451964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_319
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6afc91e199226b0800000000000000
+      internalID: -5322523455037397337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_320
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e6a0381e3f8890800000000000000
+      internalID: -7453670584658499546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_321
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ca37fbb0960490800000000000000
+      internalID: -7780372169254845219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_322
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdec2f8ff068e320800000000000000
+      internalID: 2587424636659363266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_323
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa1c621c8c1eec0800000000000000
+      internalID: -3539327100232028331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_324
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1273
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46f12a7e84c6370800000000000000
+      internalID: 8317102771541075130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_325
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8aae2325b4cce10800000000000000
+      internalID: 2219231532800452851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_326
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e990bfde1ad02a0800000000000000
+      internalID: -6769576621376954764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_327
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9585058b4ef39d0800000000000000
+      internalID: -2792261763673335309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_328
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd8f93440607750800000000000000
+      internalID: 6300641724837976835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_329
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1032
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c296dc5837c6b00800000000000000
+      internalID: 823159850416024632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_330
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 776
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db411e09c306b2310800000000000000
+      internalID: 1381303523964163261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux_bros_331
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd21812976d13d50800000000000000
+      internalID: 6715384335127621064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,9 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class levelController : MonoBehaviour
 {
-    [SerializeField] string _nextLevel;
+    public static levelController instance { get; private set; }
+    public int nextLevel;
     private zombie[] _zombies;
 
+    void Awake()
+    {
+        instance = this;
+    }
     void OnEnable()
     {
         _zombies = FindObjectsOfType<zombie>();
@@ -18,22 +23,38 @@ public class levelController : MonoBehaviour
     void Update()
     {
         if (ZombeAreAllDead())
-             GotoNextLevel();
+        {
+            GameOverWin();
+            unlockNextlevel(levelController.instance.nextLevel);
+        }
+
+        if( Bird.Instance.numberOfBirds == 0)
+        {
+            GameOverLose();
+        }
     }
 
-    private void GotoNextLevel()
+    private void GameOverWin()
     {
-        Debug.Log("Goto level" + _nextLevel);
-        SceneManager.LoadScene(_nextLevel);
+        SceneManager.LoadScene("game over");
+    }
+    public void GameOverLose()
+    {
+         SceneManager.LoadScene("lose");
     }
 
     private bool ZombeAreAllDead()
     {
-        foreach(var zombie in _zombies)
+        foreach (var zombie in _zombies)
         {
             if (zombie.gameObject.activeSelf)
                 return false;
         }
         return true;
     }
+
+    private void unlockNextlevel(int level) {
+        PlayerPrefs.SetInt("isUnlock" + level.ToString(), 1);
+    }
 }
+  
