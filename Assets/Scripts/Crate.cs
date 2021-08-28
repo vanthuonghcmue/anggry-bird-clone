@@ -35,10 +35,6 @@ public class Crate : MonoBehaviour
         Bird bird = collision.gameObject.GetComponent<Bird>();
         if (bird != null)
             return true;
-
-       // if (collision.contacts[0].normal.y < -0.5)
-         //   return true;
-
         return false;
     }
 }
