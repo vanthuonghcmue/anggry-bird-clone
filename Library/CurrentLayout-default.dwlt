@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1506
     height: 791
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 102
+  controlID: 105
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 791
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 35
+  controlID: 37
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 36
+  controlID: 38
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -405,18 +405,18 @@ MonoBehaviour:
     m_Folders:
     - Assets/Scripts
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 50
   m_LastFolders:
   - Assets/Scripts
-  m_LastFoldersGridSize: -1
+  m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\DELL\Desktop\anggry bird clone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 126}
-    m_SelectedIDs: 943c0000
-    m_LastClickedID: 15508
-    m_ExpandedIDs: 00000000583c00005a3c00005c3c00005e3c0000603c0000623c0000643c0000663c0000683c00006a3c00006c3c00006e3c0000703c000030400000
+    scrollPos: {x: 0, y: 127}
+    m_SelectedIDs: 8c3e0000
+    m_LastClickedID: 16012
+    m_ExpandedIDs: 000000004c3e00004e3e0000503e0000523e0000543e0000563e0000583e00005a3e00005c3e00005e3e0000603e0000623e0000643e0000663e0000683e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,7 +444,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000583c00005a3c00005c3c00005e3c0000603c0000623c0000643c0000663c0000683c00006a3c00006c3c00006e3c0000703c0000
+    m_ExpandedIDs: 000000004c3e00004e3e0000503e0000523e0000543e0000563e0000583e00005a3e00005c3e00005e3e0000603e0000623e0000643e0000663e0000683e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000008e300004e800000823b0000d24c0000923c0000164b00000e4b0000703b00005c3c00005a3c00005e3c00002a3c000098400000e0410000ca41000000000000
+    m_ExpandedInstanceIDs: c623000008e300004e800000823b0000d24c0000923c0000164b00000e4b0000703b00005c3c00005a3c00005e3c00002a3c000098400000e0410000ca4100000000000072400000104a0000b08200005c830000dc82000004750100488300005640000056410000fc500000fe500000147d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -497,7 +497,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 50
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 181
 --- !u!114 &14
@@ -567,23 +567,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ca2e0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: b21fffffb424ffff3625ffff8a25ffff1e27ffffb228ffff462affffec2bffffc62dffff9c30ffff6a33ffff7434ffffc260ffff4a63ffffd864ffff6666fffff467ffff8269ffff186bffffa66cffff346effff7077ffff4c79ffff787dffff447fffff6081ffff8a8affff7a8bffff28a2ffff54a2ffff6ea2fffffaa4ffff80a5ffff76c3ffffd4d8ffff00ebffff84f0ffffc0f4ffffdef5ffff22f8ffff5efaffff86faffff60fbfffff44d00006a4e0000b04e0000e84e000062620000da620000ae6a0000246b00006a6b0000a26b000096770000be7e000008f700005af70000d0f700000ef8000016f80000606c0100
+      m_SelectedIDs: 225f0000
+      m_LastClickedID: 24354
+      m_ExpandedIDs: 56e4ffffc6e4ffffd4e4ffff24e5ffff64f5ffffdcf5ffffd2faffff60fbffff44500000e45c0000ea5c0000005d0000f25d0000545f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: zombieboy (4)
-        m_OriginalName: zombieboy (4)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -55958
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -629,9 +629,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 35.123547, y: -16.105316, z: -283.04337}
+    m_Target: {x: 6.102528, y: 7.95269, z: -97.68164}
     speed: 2
-    m_Value: {x: 35.123547, y: -16.105316, z: -283.04337}
+    m_Value: {x: 6.102528, y: 7.95269, z: -97.68164}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -681,9 +681,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 58.586395
+    m_Target: 15.84019
     speed: 2
-    m_Value: 58.586395
+    m_Value: 16.586586
   m_Ortho:
     m_Target: 1
     speed: 2
